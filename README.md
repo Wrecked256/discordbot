@@ -1,2 +1,2 @@
 # discordbot
-a perfect discord bot that can do everything
+a perfect little discord bot
