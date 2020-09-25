@@ -1,4 +1,31 @@
-Github repo for:
+Changes since initial commit:
+-----------------------------
+
+improved serverinfo
+added 8ball command
+added owner only command
+added botinfo
+added cat
+added embed
+added flip
+added id
+added invite
+added kill
+added lenny
+added morse
+added mute
+added roleinfo
+improved serverinfo
+improved botinfo
+added unmute
+added userinfo
+added weather
+
+
+
+---------------------------
+     Github repo for:
+---------------------------
 
 Discord bot made by Wrecked256
   -A little discord bot
