@@ -1,0 +1,7 @@
+Dependencies:
+-------------
+
+discord.js
+discord.js-commando
+snekfetch
+request
