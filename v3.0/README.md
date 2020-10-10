@@ -1,8 +1,20 @@
-------------------------------------------
-WhatTheDuck Source code Archive
-------------------------------------------
+Source code archive:
 
-Official 2.0 Release of WhatTheDuck code
+--------------------------------
+| A Perfect little discord bot |
+--------------------------------
 
-Created by Wrecked256
-support server: https://discord.gg/SVdmcFN
+
+v2.1 Official Release
+
+Updates:
+
+New token
+More commands
+
+
+
+Other:
+
+Support Server: https://discord.gg/krk38Mn
+website: http://wrecked256.xyz/github/DiscordBot
