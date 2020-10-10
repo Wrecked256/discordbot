@@ -5,7 +5,7 @@ Discord Bot code made by Wrecked256 Find me on github: Or website:
 --------------------------------
 
 
-v2.1 Official Release
+v2.2 Official Release
 
 Updates:
 
