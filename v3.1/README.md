@@ -1,6 +1,6 @@
 Discord Bot code made by Wrecked256 Find me on github: Or website:
---------------------------------
 
+--------------------------------
 | A Perfect little discord bot |
 --------------------------------
 
