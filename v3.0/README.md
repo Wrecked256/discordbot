@@ -5,7 +5,7 @@ Source code archive:
 --------------------------------
 
 
-v2.1 Official Release
+v3.0 Official Release
 
 Updates:
 
