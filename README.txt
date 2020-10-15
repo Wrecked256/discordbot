@@ -1,7 +1,8 @@
-Github repo for:
-
+------------------------------
 Discord bot made by Wrecked256
-  -A little discord bot
+------------------------------
+
+  --A little discord bot
   
   All versions uploaded here
   updated constantly
@@ -20,6 +21,7 @@ Discord bot made by Wrecked256
  
  Open command prompt
  cd into folder holding bot code
+ install requirements.txt via NPM
  run node index.js
  
  Don't forget:
