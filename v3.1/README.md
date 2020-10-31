@@ -1,4 +1,4 @@
-Discord Bot code made by Wrecked256 Find me on github: Or website:
+Discord Bot code made by Wrecked256
 
 --------------------------------
 | A Perfect little discord bot |
