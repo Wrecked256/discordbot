@@ -100,8 +100,6 @@ if(command === "help") {
     "Gives the user info on the bot { Usage: `d!botinfo` }")
   .addField("d!id",
     "Fetches the mentioned users ID { Usage: `d!id @Example` }")
-  .addField("d!userinfo",
-    "Gives info on a mentioned user { Usage: `d!userinfo @Example` }")
   .addField("d!weather",
     "Gives the weather on named location { `Usage: d!weather texas` }")
   .addField("d!ping",
