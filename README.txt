@@ -12,7 +12,7 @@ Discord bot made by Wrecked256
   
   Req:
   
- NodeJS
+ Node.js
  npm
  python { In some cases }
  discord.js { Installed via npm }
