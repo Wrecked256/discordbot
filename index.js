@@ -61,7 +61,7 @@ if(command === "help") {
   .setAuthor("WhatTheDuck", "https://i.imgur.com/BvFaeyW.jpg")
    .setColor(0x00AE86)
   .setDescription("All DuckBot commands")
-  .setFooter("WhatTheDuck help embed", "https://i.imgur.com/BvFaeyW.jpg")
+  .setFooter("Help command, Quack Quack!", "https://i.imgur.com/BvFaeyW.jpg")
   .setThumbnail("https://i.imgur.com/BvFaeyW.jpg")
   .setTimestamp()
   .setURL("https://discordapp.com/api/oauth2/authorize?client_id=665450246939082783&permissions=0&scope=bot")
@@ -124,7 +124,7 @@ if(command === "help") {
     .setAuthor("WhatTheDuck", "https://i.imgur.com/BvFaeyW.jpg")
      .setColor(0x00AE86)
     .setDescription("breaking these rules will result in punishment")
-    .setFooter("Server Rules embed", "https://i.imgur.com/BvFaeyW.jpg")
+    .setFooter("Server Rules embed, Quack Quack!", "https://i.imgur.com/BvFaeyW.jpg")
     .setThumbnail("http://wrecked256.xyz/github/Images/clipart%20cog.png")
     .setTimestamp()
     .setURL("https://discordapp.com/api/oauth2/authorize?client_id=665450246939082783&permissions=0&scope=bot")
@@ -283,6 +283,7 @@ if(command === "help") {
     
         .setAuthor(message.author.username)
         .setColor("#00ff00")
+        .setFooter("8ball command, Quack Quack!", "https://i.imgur.com/BvFaeyW.jpg")
         .addField("Question", question)
         .addField("Answer", replies[result]);
     
@@ -299,6 +300,7 @@ if(command === "help") {
               .setImage(body)
               .setColor("#00ff00")
               .setTitle("Here is your random cat")
+              .setFooter("Here's a cat, Quack Quack!", "https://i.imgur.com/BvFaeyW.jpg")
                         
              message.channel.send(emb)  
       }
@@ -382,7 +384,7 @@ message.channel.send(emb)
   .setAuthor("WhatTheDuck", "https://i.imgur.com/BvFaeyW.jpg")
    .setColor(0x00AE86)
   .setDescription("Current Server Info")
-  .setFooter("WhatTheDuck Serverinfo embed", "https://i.imgur.com/BvFaeyW.jpg")
+  .setFooter("WhatTheDuck Serverinfo embed, Quack Quack", "https://i.imgur.com/BvFaeyW.jpg")
   .setThumbnail("https://i.imgur.com/BvFaeyW.jpg")
   .setTimestamp()
   .setURL("https://discordapp.com/api/oauth2/authorize?client_id=665450246939082783&permissions=0&scope=bot")
@@ -407,7 +409,7 @@ message.channel.send(emb)
     .setAuthor("WhatTheDuck", "https://i.imgur.com/BvFaeyW.jpg")
      .setColor(0x00AE86)
     .setDescription("All bot information")
-    .setFooter("Developed by <@449783243407884291>", "https://i.imgur.com/BvFaeyW.jpg")
+    .setFooter("Developed by <@449783243407884291> Quack! Quack!", "https://i.imgur.com/BvFaeyW.jpg")
     .setThumbnail("https://i.imgur.com/BvFaeyW.jpg")
     .setTimestamp()
     .setURL("https://discordapp.com/api/oauth2/authorize?client_id=665450246939082783&permissions=0&scope=bot")
@@ -489,7 +491,7 @@ message.channel.send(emb)
 
   if(command === "ping") {
     const m = await message.channel.send("Ping?");
-    m.edit(`Pong! Latency is ${m.createdTimestamp - message.createdTimestamp}ms. API Latency is ${Math.round(client.ping)}ms`);
+    m.edit(`Pong! Latency is ${m.createdTimestamp - message.createdTimestamp}ms. API Latency is ${Math.round(client.ping)}ms, Quack Quack!`);
   }
 
   if(command === "say") {
@@ -555,6 +557,7 @@ message.channel.send(emb)
   
     let emb = new Discord.RichEmbed()
     .setTitle(cmd[0])
+    .setFooter("Embed, Quack	 Quack!", "https://i.imgur.com/BvFaeyW.jpg")
     .setColor(cmd[1])
     .setDescription(`${message.author.username}`)
     .setTimestamp()
