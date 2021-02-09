@@ -27,15 +27,7 @@ All versions uploaded here. Updated constantly. Coded by Wrecked256.
 
 d!help
 
-d!kick
-
-d!ban
-
 d!purge
-
-d!mute
-
-d!unmute
 
 d!vegetable
 
@@ -68,3 +60,15 @@ d!embed
 
 d!invite
 </details>
+
+<details>
+  <summary>Needs work</summary>
+  
+  d!kick
+  
+  d!ban
+  
+  d!mute
+  
+  d!unmute
+ </details>
